@@ -1,6 +1,6 @@
 # Product database using PHP MyAdmin 
 
-* Search functionality by product name
+* Add product and search functionality by product name
 
 http://joyo.dev.fast.sheridanc.on.ca/deploy/php/3/product_database
 
